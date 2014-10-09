@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/brownman/travis_screencast.svg?branch=develop)](https://travis-ci.org/browman/travis_screencast)
+[![Build Status](https://travis-ci.org/brownman/travis_screencast-group.svg?branch=develop)](https://travis-ci.org/advance-linux/travis_screencast)
  
 ### [Video](http://brownman.github.io/travis_screencast/)
 
